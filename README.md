@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**LaitinenHenri/LaitinenHenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Henri Laitinen and welcome to my GitHub page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On this page, you’ll find various projects that I’ve worked on, including both school-related and personal projects. These projects vary from small games to TCP servers.
+
+
+📚 About My Projects:
+Most of my personal projects are written in C++ (with a couple in C#).
+School projects are mainly written in Python.
+I’m actively trying to diversify my skill set with every project and I'm always eager to learn new things in the world of coding.
+
+
+⚙️ NOTE: 
+I should note that I haven’t used Git for most of my personal projects up until now. As a result, many of my projects are uploaded here as complete units (no commits, branches, etc.). However, I do have basic knowledge of Git from my school projects on my schools git, and I aim to improve version control in future ones.
+
+
+📫 How to reach me:
+Feel free to contact me or open an issue on any project if you'd like to collaborate or have any questions!
+email: laitinenhenri@hotmail.com
+
