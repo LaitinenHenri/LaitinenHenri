@@ -3,7 +3,7 @@
 
 My name is Henri Laitinen and welcome to my GitHub page!
 
-On this page, you’ll find various projects that I’ve worked on, including both school-related and personal projects. These projects vary from small games to TCP servers.
+On this page, you’ll find various projects that I’ve worked on, including both school-related and personal projects. These projects vary from small games to robot controlling programs.
 
 
 📚 About My Projects:
