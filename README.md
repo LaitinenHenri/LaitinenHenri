@@ -17,6 +17,6 @@ I should note that I haven’t used Git for most of my personal projects up unti
 
 
 📫 How to reach me:
-Feel free to contact me or open an issue on any project if you'd like to collaborate or have any questions!
+Feel free to contact me if you have any questions!
 email: laitinenhenri@hotmail.com
 
