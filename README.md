@@ -13,7 +13,7 @@ I’m actively trying to diversify my skill set with every project and I'm alway
 
 
 ⚙️ NOTE: 
-I should note that I haven’t used Git for most of my personal projects up until now. As a result, many of my projects are uploaded here as complete units (no commits, branches, etc.). However, I do have basic knowledge of Git from my school projects on my schools git, and I aim to improve version control in future ones.
+I should note that on most of these projects I havent used git. As a result, many of my projects are uploaded here as complete units (no commits, branches, etc.). However, I do have basic knowledge of Git from my school projects on my schools git, and I aim to improve version control in future ones.
 
 
 📫 How to reach me:
